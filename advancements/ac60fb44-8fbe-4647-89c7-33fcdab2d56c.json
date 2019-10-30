@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2019-10-26 17:41:04 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2019-10-10 14:50:29 +0800"
@@ -269,6 +275,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2019-10-10 14:45:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2019-10-26 17:19:32 +0800"
     },
     "done": true
   },
@@ -831,6 +843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2019-10-26 17:19:23 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-10-10 15:44:35 +0800"
@@ -1179,6 +1197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2019-10-26 17:41:04 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2019-10-10 14:50:29 +0800"
@@ -1266,6 +1290,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2019-10-10 15:05:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2019-10-26 17:19:23 +0800"
     },
     "done": true
   },
@@ -1460,7 +1490,8 @@
       "taiga": "2019-10-11 19:12:23 +0800",
       "ocean": "2019-10-14 15:51:16 +0800",
       "extreme_hills": "2019-10-11 19:17:56 +0800",
-      "river": "2019-10-10 15:01:49 +0800"
+      "river": "2019-10-10 15:01:49 +0800",
+      "stone_beach": "2019-10-26 17:38:26 +0800"
     },
     "done": false
   },
@@ -1692,6 +1723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_the_recipe": "2019-10-26 18:00:56 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2019-10-10 15:05:00 +0800"
@@ -1761,6 +1798,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-10-10 15:44:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2019-10-26 18:00:56 +0800"
     },
     "done": true
   }
